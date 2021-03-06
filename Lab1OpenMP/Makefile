@@ -1,6 +1,6 @@
 
 all:
-	g++ main.cpp -o main -fopenmp
+	g++ main.cpp -o main -fopenmp -Ofast
 
 clean:
 

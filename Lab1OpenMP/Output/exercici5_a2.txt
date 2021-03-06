@@ -1,0 +1,29 @@
+-------------------------------------------------------------------
+[1mCONFIGURATION[0m
+	The number of executions is setted to 10.
+	The conversion function selected is [1mconvGRB2RGBA_3[0m.
+-------------------------------------------------------------------
+[1mEXECUTION[0m
+	convGRB2RGBA_3 time for 1000 iterations = 3762259us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3643455us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3592701us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3686045us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3636416us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3766125us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3600879us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3634521us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3635939us
+	Executed!! Results OK.
+	convGRB2RGBA_3 time for 1000 iterations = 3629570us
+	Executed!! Results OK.
+
+	The mean of time (execution) in 10 executions is 3.65879e+06s
+-------------------------------------------------------------------
