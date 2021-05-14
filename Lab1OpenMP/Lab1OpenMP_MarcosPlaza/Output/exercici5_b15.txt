@@ -1,0 +1,29 @@
+-------------------------------------------------------------------
+[1mCONFIGURATION[0m
+	The number of executions is setted to 10.
+	The conversion function selected is [1mconvGRB2RGBA_2_guidedscheduling[0m.
+-------------------------------------------------------------------
+[1mEXECUTION[0m
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10113030us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10100033us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10091464us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10091694us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10091766us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10091161us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10089827us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10090712us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10089512us
+	Executed!! Results OK.
+	convGRB2RGBA_2_guidedscheduling time for 1000 iterations = 10088900us
+	Executed!! Results OK.
+
+	The mean of time (execution) in 10 executions is 1.00938e+07s
+-------------------------------------------------------------------

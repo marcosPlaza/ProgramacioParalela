@@ -1,0 +1,29 @@
+-------------------------------------------------------------------
+[1mCONFIGURATION[0m
+	The number of executions is setted to 10.
+	The conversion function selected is [1mconvGRB2RGBA_2_dynamicscheduling[0m.
+-------------------------------------------------------------------
+[1mEXECUTION[0m
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10103616us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10093567us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10092483us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10091847us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10093136us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10092517us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10092432us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10092480us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10091723us
+	Executed!! Results OK.
+	convGRB2RGBA_2_dynamicscheduling time for 1000 iterations = 10093307us
+	Executed!! Results OK.
+
+	The mean of time (execution) in 10 executions is 1.00937e+07s
+-------------------------------------------------------------------

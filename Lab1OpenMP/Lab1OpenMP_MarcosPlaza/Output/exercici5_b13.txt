@@ -1,0 +1,29 @@
+-------------------------------------------------------------------
+[1mCONFIGURATION[0m
+	The number of executions is setted to 10.
+	The conversion function selected is [1mconvGRB2RGBA_2_staticscheduling[0m.
+-------------------------------------------------------------------
+[1mEXECUTION[0m
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9929369us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9872428us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9867417us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9859244us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9857515us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9860475us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9861775us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9871854us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9869602us
+	Executed!! Results OK.
+	convGRB2RGBA_2_staticscheduling time for 1000 iterations = 9874223us
+	Executed!! Results OK.
+
+	The mean of time (execution) in 10 executions is 9.87239e+06s
+-------------------------------------------------------------------
